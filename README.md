@@ -11,12 +11,11 @@ Es necesario crear el directorio `build` donde se almacenarán los ejecutables d
 ### Canales de YouTube en inglés
 - [Tsoding](https://www.youtube.com/@Tsoding) / Programación recreacional
 - [Tsoding Daily](https://www.youtube.com/@TsodingDaily) / Directos resubidos de programación
-- [Sebastian Lague](https://www.youtube.com/@SebastianLague) / Videos de proyectos de programación interesantes
-- [LaurieWired](https://www.youtube.com/@lauriewired) / Ingeniería inversa y programación de bajo nivel
-- [Nir Lichtman](https://www.youtube.com/@nirlichtman) / Programación de bajo nivel
-- [Fireship](https://www.youtube.com/@Fireship) / Noticias de programación
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown) / Matemáticas
-- [Core Dumped](https://www.youtube.com/@CoreDumpped) / Conceptos de bajo nivel
+- [Sebastian Lague](https://www.youtube.com/@SebastianLague) / Proyectos diversos
+- [LaurieWired](https://www.youtube.com/@lauriewired) / Ingeniería inversa y análisis de malware
+- [Fireship](https://www.youtube.com/@Fireship) / Noticias de programación y tecnología
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) / Matemáticas con animaciones
+- [Core Dumped](https://www.youtube.com/@CoreDumpped) / Conceptos de bajo nivel y hardware
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow) / Hacking
 - [Stuff Made Here](https://www.youtube.com/@StuffMadeHere) / Ingeniería
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) / Retos de programación
